@@ -12,13 +12,37 @@ subtitle: Master's Student in Computer Science/Data Science
 </div>
 
 ### About Me
-my name jeff
+I’m a Master's student studying Computer Science at DePaul University, with a specialization in Data Science. I'm a graduate from the University of Illinois at Urbana-Champaign (UIUC) with a Bachelor's in Molecular and Cellular Biology. I invest time outside of classes learning about new CS topics and applications in the Machine Learning and Data Science field through personal projects/competitions.
 
 ### Education 
 
-* **Master's Degree In Computer Science/Data Science** at [DePaul University](https://www.cdm.depaul.edu/academics/Pages/current/Requirements-MS-in-Computer-Science.aspx), (≈ December 2019)
-   * _Coursework_: Data Analytics & Regression, Database Processing for Large-scale Analytics, Advanced Data Analysis, Knowledge Discovery Technologies, Programming Machine Learning Applications
+* **Master's Degree In Computer Science/Data Science** at [DePaul University](https://www.cdm.depaul.edu/academics/Pages/current/Requirements-MS-in-Computer-Science.aspx), (2019)
+   * _Planned Coursework_: Data Analytics & Regression, Advanced Data Analysis, Programming Machine Learning Applications, Mining Big Data
    
 * **BS in Molecular and Cellular Biology** at [University of Illinois at Urbana-Champaign](http://catalog.illinois.edu/undergraduate/las/academic-units/molecular-cell-bio/molecular-cellular-biology-concentration/), (2017)
 
+### Work Experience 
 
+* **Applications and Support Engineering Intern** at [TRUMPF Inc.](https://www.trumpf.com/en_US/) (2018)
+    * Developed program to efficiently parse/analyze files specific to TRUMPF software that calculated and outputted data into spreadsheet to be used with clients (Python, openpyxl)
+    * Initiated the idea to gather data on the uptime/downtime of the main TRUMPF server into a database in order to be analyzed to prevent future bottlenecks
+    * Managed and worked on quality control testing for different laser/sheet metal storage machines
+    * Created local webpage for colleagues for live camera feeds on machines/workplace and automated tasks from other coworkers
+    * Learned about the manufacturing industry, equipment, software, etc. from the ground up while trying to incorporate working CS knowledge to further optimize the workplace
+* **Researcher** at [Ballot Ready](https://www.ballotready.org) (2018)
+    * Assisted team with the core mission of Ballot Ready by reporting, compiling, and updating data through web scraping
+    
+    ### Data Science Projects
+    
+    ### Software Projects
+    
+    * **J-Paint**
+    * Created a paint application in java as a class project using various object-oriented design patterns and UML diagrams
+    * **iOS Apps**
+    * Released a game coded in Lua/Corona featuring object-object collision, fluid touch and object movement, local score keeping
+
+### Technical Skills [Keywords]
+* **Programming Languages**: Python, PL/SQL, Java, C, R
+* **Developing Software/Frameworks**: Tableau, Pandas, Numpy, Scikit-learn
+* **Languages**: English, Spanish, Urdu/Hindi
+    
