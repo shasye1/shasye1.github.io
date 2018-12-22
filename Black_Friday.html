@@ -13570,51 +13570,6 @@ product category help predict the total purchase_amount. So <strong>people from 
 </div>
 </div>
 
-<div class="output_wrapper">
-<div class="output">
-
-
-<div class="output_area">
-
-<div class="prompt"></div>
-
-
-<div class="output_subarea output_text output_error">
-<pre>
-<span class="ansi-red-fg">---------------------------------------------------------------------------</span>
-<span class="ansi-red-fg">ValueError</span>                                Traceback (most recent call last)
-<span class="ansi-green-fg">&lt;ipython-input-303-5ab76d7bdfb0&gt;</span> in <span class="ansi-cyan-fg">&lt;module&gt;</span>
-<span class="ansi-green-fg">----&gt; 1</span><span class="ansi-red-fg"> </span>prediction2 <span class="ansi-blue-fg">=</span> logmodel2<span class="ansi-blue-fg">.</span>predict<span class="ansi-blue-fg">(</span>test<span class="ansi-blue-fg">)</span>
-
-<span class="ansi-green-fg">~/anaconda3/lib/python3.7/site-packages/sklearn/linear_model/base.py</span> in <span class="ansi-cyan-fg">predict</span><span class="ansi-blue-fg">(self, X)</span>
-<span class="ansi-green-intense-fg ansi-bold">    211</span>             Returns predicted values<span class="ansi-blue-fg">.</span>
-<span class="ansi-green-intense-fg ansi-bold">    212</span>         &#34;&#34;&#34;
-<span class="ansi-green-fg">--&gt; 213</span><span class="ansi-red-fg">         </span><span class="ansi-green-fg">return</span> self<span class="ansi-blue-fg">.</span>_decision_function<span class="ansi-blue-fg">(</span>X<span class="ansi-blue-fg">)</span>
-<span class="ansi-green-intense-fg ansi-bold">    214</span> 
-<span class="ansi-green-intense-fg ansi-bold">    215</span>     _preprocess_data <span class="ansi-blue-fg">=</span> staticmethod<span class="ansi-blue-fg">(</span>_preprocess_data<span class="ansi-blue-fg">)</span>
-
-<span class="ansi-green-fg">~/anaconda3/lib/python3.7/site-packages/sklearn/linear_model/base.py</span> in <span class="ansi-cyan-fg">_decision_function</span><span class="ansi-blue-fg">(self, X)</span>
-<span class="ansi-green-intense-fg ansi-bold">    196</span>         X <span class="ansi-blue-fg">=</span> check_array<span class="ansi-blue-fg">(</span>X<span class="ansi-blue-fg">,</span> accept_sparse<span class="ansi-blue-fg">=</span><span class="ansi-blue-fg">[</span><span class="ansi-blue-fg">&#39;csr&#39;</span><span class="ansi-blue-fg">,</span> <span class="ansi-blue-fg">&#39;csc&#39;</span><span class="ansi-blue-fg">,</span> <span class="ansi-blue-fg">&#39;coo&#39;</span><span class="ansi-blue-fg">]</span><span class="ansi-blue-fg">)</span>
-<span class="ansi-green-intense-fg ansi-bold">    197</span>         return safe_sparse_dot(X, self.coef_.T,
-<span class="ansi-green-fg">--&gt; 198</span><span class="ansi-red-fg">                                dense_output=True) + self.intercept_
-</span><span class="ansi-green-intense-fg ansi-bold">    199</span> 
-<span class="ansi-green-intense-fg ansi-bold">    200</span>     <span class="ansi-green-fg">def</span> predict<span class="ansi-blue-fg">(</span>self<span class="ansi-blue-fg">,</span> X<span class="ansi-blue-fg">)</span><span class="ansi-blue-fg">:</span>
-
-<span class="ansi-green-fg">~/anaconda3/lib/python3.7/site-packages/sklearn/utils/extmath.py</span> in <span class="ansi-cyan-fg">safe_sparse_dot</span><span class="ansi-blue-fg">(a, b, dense_output)</span>
-<span class="ansi-green-intense-fg ansi-bold">    171</span>         <span class="ansi-green-fg">return</span> ret
-<span class="ansi-green-intense-fg ansi-bold">    172</span>     <span class="ansi-green-fg">else</span><span class="ansi-blue-fg">:</span>
-<span class="ansi-green-fg">--&gt; 173</span><span class="ansi-red-fg">         </span><span class="ansi-green-fg">return</span> np<span class="ansi-blue-fg">.</span>dot<span class="ansi-blue-fg">(</span>a<span class="ansi-blue-fg">,</span> b<span class="ansi-blue-fg">)</span>
-<span class="ansi-green-intense-fg ansi-bold">    174</span> 
-<span class="ansi-green-intense-fg ansi-bold">    175</span> 
-
-<span class="ansi-red-fg">ValueError</span>: shapes (233599,33) and (37,) not aligned: 33 (dim 1) != 37 (dim 0)</pre>
-</div>
-</div>
-
-</div>
-</div>
-
-</div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
 <div class="prompt input_prompt">In&nbsp;[273]:</div>
@@ -13623,34 +13578,6 @@ product category help predict the total purchase_amount. So <strong>people from 
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">index</span> <span class="o">=</span> <span class="p">[</span><span class="n">i</span> <span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span> <span class="nb">len</span><span class="p">(</span><span class="n">prediction2</span><span class="p">))]</span>
 </pre></div>
 
-</div>
-</div>
-</div>
-
-<div class="output_wrapper">
-<div class="output">
-
-
-<div class="output_area">
-
-<div class="prompt"></div>
-
-
-<div class="output_subarea output_text output_error">
-<pre>
-<span class="ansi-red-fg">---------------------------------------------------------------------------</span>
-<span class="ansi-red-fg">NameError</span>                                 Traceback (most recent call last)
-<span class="ansi-green-fg">&lt;ipython-input-273-a88b6895f58e&gt;</span> in <span class="ansi-cyan-fg">&lt;module&gt;</span>
-<span class="ansi-green-fg">----&gt; 1</span><span class="ansi-red-fg"> </span>index <span class="ansi-blue-fg">=</span> <span class="ansi-blue-fg">[</span>i <span class="ansi-green-fg">for</span> i <span class="ansi-green-fg">in</span> range<span class="ansi-blue-fg">(</span><span class="ansi-cyan-fg">0</span><span class="ansi-blue-fg">,</span> len<span class="ansi-blue-fg">(</span>prediction2<span class="ansi-blue-fg">)</span><span class="ansi-blue-fg">)</span><span class="ansi-blue-fg">]</span>
-
-<span class="ansi-red-fg">NameError</span>: name &#39;prediction2&#39; is not defined</pre>
-</div>
-</div>
-
-</div>
-</div>
-
-</div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
 <div class="prompt input_prompt">In&nbsp;[&nbsp;]:</div>
