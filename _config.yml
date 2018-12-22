@@ -27,7 +27,7 @@ navbar-links:
   Projects: "projects"
   Resources:
     - Nothing Yet
-  About Me: 
+  About Me:
     - About Me: "aboutme"
     - Resume/CV: "resume"
 
