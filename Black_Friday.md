@@ -869,7 +869,7 @@ test.head()
 <div>
 <style scoped>
     .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
+        vertical-align: left;
     }
 
     .dataframe tbody tr th {
@@ -1022,57 +1022,9 @@ prediction2 = logmodel2.predict(test)
 ```
 
 
-    ---------------------------------------------------------------------------
-
-    ValueError                                Traceback (most recent call last)
-
-    <ipython-input-303-5ab76d7bdfb0> in <module>
-    ----> 1 prediction2 = logmodel2.predict(test)
-    
-
-    ~/anaconda3/lib/python3.7/site-packages/sklearn/linear_model/base.py in predict(self, X)
-        211             Returns predicted values.
-        212         """
-    --> 213         return self._decision_function(X)
-        214 
-        215     _preprocess_data = staticmethod(_preprocess_data)
-
-
-    ~/anaconda3/lib/python3.7/site-packages/sklearn/linear_model/base.py in _decision_function(self, X)
-        196         X = check_array(X, accept_sparse=['csr', 'csc', 'coo'])
-        197         return safe_sparse_dot(X, self.coef_.T,
-    --> 198                                dense_output=True) + self.intercept_
-        199 
-        200     def predict(self, X):
-
-
-    ~/anaconda3/lib/python3.7/site-packages/sklearn/utils/extmath.py in safe_sparse_dot(a, b, dense_output)
-        171         return ret
-        172     else:
-    --> 173         return np.dot(a, b)
-        174 
-        175 
-
-
-    ValueError: shapes (233599,33) and (37,) not aligned: 33 (dim 1) != 37 (dim 0)
-
-
-
 ```python
 index = [i for i in range(0, len(prediction2))]
 ```
-
-
-    ---------------------------------------------------------------------------
-
-    NameError                                 Traceback (most recent call last)
-
-    <ipython-input-273-a88b6895f58e> in <module>
-    ----> 1 index = [i for i in range(0, len(prediction2))]
-    
-
-    NameError: name 'prediction2' is not defined
-
 
 
 ```python
