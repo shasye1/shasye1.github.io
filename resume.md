@@ -38,7 +38,7 @@ I’m a Master's student studying Computer Science at DePaul University, with a 
   * [Black Friday Competition](https://www.shahbazsyed.com/Black_Friday): Data Analysis of black friday sales and customer data utilizing customer demographics to predict the purchase amount of customers against various product categories.
 * **Visualizations**
   * [Crimes In Chicago](https://www.shahbazsyed.com/crimes): A data visualization of crimes that took place in the City of Chicago from 2017 to 2018. There are a number of filters in which you can compare the types of crimes and their relative locations to one another and your favorite spots around the Chicago area.
-  * [Potholes In Chicago](https://www.shahbazsyed.com/potholes): A data visualization featuring the recorded potholes reported via the 311 Chicago call center since 2011.
+  * [Potholes In Chicago](https://www.shahbazsyed.com/potholes): A data visualization featuring the recorded potholes reported via the 311 Chicago call center since 2011. The filters allow the user to gain an overview on the filing of pothole reports and whether they were completed or not.
 
 ### Software Projects
 
