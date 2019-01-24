@@ -27,7 +27,7 @@ I’m a Master's student studying Computer Science at DePaul University, with a 
     * Performed business analysis using tools such as Python, SQL, Tableau, and others to gather and report insights through pre-existing data
     * Managed and led projects towards introducing data science/ML into the organization  
     * Created a pathway for data collection and pre-processed data for current and future data projects
-    * •	Built models with new metrics to track company performance and conducted research in order to improve company operations
+    * Built models with new metrics to track company performance and conducted research in order to improve company operations
     * Learned more about the finance industry and business analytics, while pursuing academic degree and trying to incorporate that knowledge at the company
 * **Applications and Support Engineering Intern** at [TRUMPF Inc.](https://www.trumpf.com/en_US/) (2018)
     * Developed program to efficiently parse/analyze files specific to TRUMPF software that calculated and outputted data into spreadsheet to be used with clients (Python, openpyxl)
