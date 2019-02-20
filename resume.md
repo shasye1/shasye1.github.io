@@ -24,11 +24,11 @@ I’m a Master's student studying Computer Science at DePaul University, with a 
 ### Work Experience
 
 * **Business Analytics/Data Science Intern** at [Paro Inc.](https://www.paro.io) (2019)
-    * Performed business analysis using tools such as Python, SQL, Tableau, and others to gather and report insights through pre-existing data
-    * Managed and led projects towards introducing data science/ML into the organization  
-    * Created a pathway for data collection and pre-processed data for current and future data projects
-    * Built models with new metrics to track company performance and conducted research in order to improve company operations
-    * Learned more about the finance industry and business analytics, while pursuing academic degree and trying to incorporate that knowledge at the company
+    * Developed a new and accurate machine learning forecasting model to project end of the month revenue that replaced the company’s old model
+    * Created a model that used clustering/cluster analysis and classification to identify potential customers for cross-selling  
+    * Pre-processed data for data analysis projects such as price-volume/recurring-revenue analysis
+    * Worked with the VP of Engineering to put models into production and integrate them into the employee dashboards for company utilization
+    * Helped show data and insights as a “story” for stakeholders and executives in order to understand the quality of the business
 * **Applications and Support Engineering Intern** at [TRUMPF Inc.](https://www.trumpf.com/en_US/) (2018)
     * Developed program to efficiently parse/analyze files specific to TRUMPF software that calculated and outputted data into spreadsheet to be used with clients (Python, openpyxl)
     * Initiated the idea to gather data on the uptime/downtime of the main TRUMPF server into a database in order to be analyzed to prevent future bottlenecks
