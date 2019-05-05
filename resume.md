@@ -22,13 +22,12 @@ I’m a Master's student studying Computer Science at DePaul University, with a 
 * **BS in Molecular and Cellular Biology** at [University of Illinois at Urbana-Champaign](http://catalog.illinois.edu/undergraduate/las/academic-units/molecular-cell-bio/molecular-cellular-biology-concentration/), (2017)
 
 ### Work Experience
-
-* **Business Analytics/Data Science Intern** at [Paro Inc.](https://www.paro.io) (2019)
-    * Developed a new and accurate machine learning forecasting model to project end of the month revenue that replaced the company’s old model
-    * Created a model that used clustering/cluster analysis and classification to identify potential customers for cross-selling  
-    * Pre-processed data for data analysis projects such as price-volume/recurring-revenue analysis
-    * Worked with the VP of Engineering to put models into production and integrate them into the employee dashboards for company utilization
-    * Helped show data and insights as a “story” for stakeholders and executives in order to understand the quality of the business
+* **Data Science Intern** at [Nielsen](https://www.nielsen.com) (**Current/Summer 2019**)
+* **Data Science Intern** at [Paro Inc.](https://www.paro.io) (2019)
+    * Developed a new and accurately performing tops down ML model to project end of the month revenue through experimentation and testing with external APIs
+    * Cleaned and transformed structured and unstructured company data for use of statistical techniques for deep-dive data analysis
+    * Portrayed data and insights as a story in order to communicate results of findings and advocate recommendations for best practices in data architecture
+    * Primary point of contact for machine learning related methodology development and laid the foundation for future data science problems
 * **Applications and Support Engineering Intern** at [TRUMPF Inc.](https://www.trumpf.com/en_US/) (2018)
     * Developed program to efficiently parse/analyze files specific to TRUMPF software that calculated and outputted data into spreadsheet to be used with clients (Python, openpyxl)
     * Initiated the idea to gather data on the uptime/downtime of the main TRUMPF server into a database in order to be analyzed to prevent future bottlenecks
@@ -42,19 +41,19 @@ I’m a Master's student studying Computer Science at DePaul University, with a 
 
 * **Data Analyses**
   * [Black Friday Competition](https://www.shahbazsyed.com/Black_Friday): Data Analysis of Black Friday sales and customer data utilizing customer demographics to predict the purchase amount of customers against various product categories.
-  * [Sentiment Analysis - Yelp](https://www.shahbazsyed.com): Used NLP (Natural Language Processing) to analyze text data from Yelp reviews and classify them as 1 or 5 stars. - **To be posted soon!**
+  * [Predicting Heart](https://www.shahbazsyed.com): Data analysis regarding health data to make predictions on heart attacks. - **To be posted soon!**
 * **Visualizations**
   * [Crimes In Chicago](https://www.shahbazsyed.com/crimes): A data visualization of crimes that took place in the City of Chicago from 2017 to 2018. There are a number of filters in which you can compare the types of crimes and their relative locations to one another and your favorite spots around the Chicago area.
   * [Potholes In Chicago](https://www.shahbazsyed.com/potholes): A data visualization featuring the recorded potholes reported via the 311 Chicago call center since 2011. The filters allow the user to gain an overview on the filing of pothole reports and whether they were completed or not.
 
 ### Software Projects
 
-* **J-Paint**
+* **Applications**
     * Created a paint application in java as a class project using various object-oriented design patterns and UML diagrams
-* **iOS Apps**
+    * Developed a web and iOS application for image processing to identify a user’s input image of dermatoscopic pigmented lesions 
     * Released a game coded in Lua/Corona featuring object-object collision, fluid touch and object movement, local score keeping
 
 ### Technical Skills [Keywords]
 * **Programming Languages**: Python, PL/SQL, Java, C, R
-* **Developing Software/Frameworks**: Tableau, Pandas, Numpy, Scikit-learn, Spark
+* **Developing Software/Frameworks**: Pandas/Numpy, Tableau, Scikit-learn/Scipy, Keras/Tensorflow, FBProphet
 * **Languages**: English, Spanish, Urdu/Hindi
