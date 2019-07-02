@@ -17,17 +17,17 @@ I’m a Master's student studying Computer Science at DePaul University, with a 
 ### Education
 
 * **Master's Degree In Computer Science/Data Science** at [DePaul University](https://www.cdm.depaul.edu/academics/Pages/current/Requirements-MS-in-Computer-Science.aspx), (2019)
-   * _Planned Coursework_: Data Analytics & Regression, Advanced Data Analysis, Programming Machine Learning Applications, Mining Big Data
 
 * **BS in Molecular and Cellular Biology** at [University of Illinois at Urbana-Champaign](http://catalog.illinois.edu/undergraduate/las/academic-units/molecular-cell-bio/molecular-cellular-biology-concentration/), (2017)
 
 ### Work Experience
 * **Data Science Intern** at [Nielsen](https://www.nielsen.com) (**Current/Summer 2019**)
 * **Data Science Intern** at [Paro Inc.](https://www.paro.io) (2019)
-    * Developed a new and accurately performing tops down ML model to project end of the month revenue through experimentation and testing with external APIs
+    * Developed a new and accurately performing tops down ML model to forecast end of the month revenue through experimentation and testing with external APIs
     * Cleaned and transformed structured and unstructured company data for use of statistical techniques for deep-dive data analysis
     * Portrayed data and insights as a story in order to communicate results of findings and advocate recommendations for best practices in data architecture
     * Primary point of contact for machine learning related methodology development and laid the foundation for future data science problems
+    * Continuing to offer data science development post-internship, by working on a solution to improve revenue projections on a granular, project-level basis
 * **Applications and Support Engineering Intern** at [TRUMPF Inc.](https://www.trumpf.com/en_US/) (2018)
     * Developed program to efficiently parse/analyze files specific to TRUMPF software that calculated and outputted data into spreadsheet to be used with clients (Python, openpyxl)
     * Initiated the idea to gather data on the uptime/downtime of the main TRUMPF server into a database in order to be analyzed to prevent future bottlenecks
@@ -40,8 +40,8 @@ I’m a Master's student studying Computer Science at DePaul University, with a 
 ### Data Science Projects
 
 * **Data Analyses**
+  * [Predicting Heart Disease](https://www.shahbazsyed.com/heartdisease): Copy from a presentation and demo I gave to new students who wanted to learn more about Python and Data Science. The link features a notebook going through some exploratory data analysis and some machine learning techniques such as decision trees, random forest classifiers, grid search, etc.
   * [Black Friday Competition](https://www.shahbazsyed.com/Black_Friday): Data Analysis of Black Friday sales and customer data utilizing customer demographics to predict the purchase amount of customers against various product categories.
-  * [Predicting Heart](https://www.shahbazsyed.com): Data analysis regarding health data to make predictions on heart attacks. - **To be posted soon!**
 * **Visualizations**
   * [Crimes In Chicago](https://www.shahbazsyed.com/crimes): A data visualization of crimes that took place in the City of Chicago from 2017 to 2018. There are a number of filters in which you can compare the types of crimes and their relative locations to one another and your favorite spots around the Chicago area.
   * [Potholes In Chicago](https://www.shahbazsyed.com/potholes): A data visualization featuring the recorded potholes reported via the 311 Chicago call center since 2011. The filters allow the user to gain an overview on the filing of pothole reports and whether they were completed or not.
@@ -50,10 +50,10 @@ I’m a Master's student studying Computer Science at DePaul University, with a 
 
 * **Applications**
     * Created a paint application in java as a class project using various object-oriented design patterns and UML diagrams
-    * Developed a web and iOS application for image processing to identify a user’s input image of dermatoscopic pigmented lesions 
+    * Developed a web and iOS application for image processing to identify a user’s input image of dermatoscopic pigmented lesions
     * Released a game coded in Lua/Corona featuring object-object collision, fluid touch and object movement, local score keeping
 
 ### Technical Skills [Keywords]
-* **Programming Languages**: Python, PL/SQL, Java, C, R
-* **Developing Software/Frameworks**: Pandas/Numpy, Tableau, Scikit-learn/Scipy, Keras/Tensorflow, FBProphet
+* **Programming Languages**: Python, R, SQL, Java, C/C++, Scala
+* **Developing Software/Frameworks**: Pandas, Numpy, Tableau, Scikit/Scipy, Keras/Tensorflow, Hadoop, Spark, Hive, FBProphet
 * **Languages**: English, Spanish, Urdu/Hindi
