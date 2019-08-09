@@ -24,7 +24,7 @@ title: About me
     * Initiated the idea to gather data on the uptime and downtime of the main TRUMPF server into a database in order to be analyzed to prevent future bottlenecks
     * Managed and worked on quality control testing for different laser/sheet metal storage machines
     * Created local webpage for colleagues for live camera feeds on machines/workplace and automated tasks from other coworkers
-    * Worked with software, mechanical, and industrial engineers on projects to provide
+    * Worked with software, mechanical, and industrial engineers on multiple different projects
 * **Researcher** at [Ballot Ready](https://www.ballotready.org) (2018)
     * Assisted team with the core mission of Ballot Ready by reporting, compiling, and updating data through web scraping
 
