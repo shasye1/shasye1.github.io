@@ -29,7 +29,6 @@ title: About me
     * Assisted team with the core mission of Ballot Ready by reporting, compiling, and updating data through web scraping
 
 ### Software Projects
-
     * **Applications**
         * Currently developing a project using a new stack - **C#, ASP.NET Core, Angular, NodeJS, SQLite**
         * Created a paint app in java using OO design patterns, MVC architecture, and UML diagrams
@@ -54,6 +53,6 @@ title: About me
 
 ### Contact me
 
-&#128233; <div align="center"> <a href="mailto:shasye54@gmail.com" class="btn btn-success"><span class="glyphicons glyphicons-envelope"></span>Email</a> </div>
+&#128233; <a href="mailto:shasye54@gmail.com" class="btn btn-success"><span class="glyphicons glyphicons-envelope"></span>Email</a>
 
 ---
