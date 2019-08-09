@@ -7,6 +7,8 @@ title: About me
 
 &#127891; Currently a Master's student in **Computer Science** at [DePaul University](http://www.cdm.depaul.edu/academics/Pages/Current/Requirements-MS-in-Computer-Science.aspx) where I am focused on topics ranging from **software engineering** to **machine learning**. Previously, I earned a BS in **Molecular and Cellular Biology** from the [University of Illinois at Urbana-Champaign](http://catalog.illinois.edu/undergraduate/las/academic-units/molecular-cell-bio/molecular-cellular-biology-concentration/).  *I've had intern experience with CPG analytics, manufacturing, and finance industries, as well as academic experience in healthcare/life sciences and computer science. I enjoy studying topics in software engineering, machine learning, data science, and statistics on my own via MOOCs, competitions/hackathons, and personal learning projects.*
 
+Please request a complete resume via email or through an official application process.
+
 ### Education
 
 * **Master's Degree In Computer Science** at [DePaul University](https://www.cdm.depaul.edu/academics/Pages/current/Requirements-MS-in-Computer-Science.aspx), (2019/2020)
@@ -15,18 +17,8 @@ title: About me
 ### Work Experience
 * **Data Science Intern** at [Nielsen](https://www.nielsen.com) (Summer 2019)
 * **Data Science and Analytics Intern** at [Paro Inc.](https://www.paro.io) (2019)
-    *	Developed an ML model to forecast end of the month revenue which improved the company’s projection accuracy from 72% to approximately 95%
-    *	Portrayed data findings as a story in order to communicate results to executives and advocated recommendations in data architecture
-    *	Primary point of contact for machine learning related methodology development and laid the foundation for future data science problems
-    *	Continuing to offer data science development post-internship, by working on a solution to improve revenue projections per client
 * **Engineering Intern** at [TRUMPF Inc.](https://www.trumpf.com/en_US/) (2018)
-    * Developed program to efficiently parse/analyze files specific to TRUMPF software that calculated and outputted data into spreadsheet to be used with clients
-    * Initiated the idea to gather data on the uptime and downtime of the main TRUMPF server into a database in order to be analyzed to prevent future bottlenecks
-    * Managed and worked on quality control testing for different laser/sheet metal storage machines
-    * Created local webpage for colleagues for live camera feeds on machines/workplace and automated tasks from other coworkers
-    * Worked with software, mechanical, and industrial engineers on multiple different projects
 * **Researcher** at [Ballot Ready](https://www.ballotready.org) (2018)
-    * Assisted team with the core mission of Ballot Ready by reporting, compiling, and updating data through web scraping
 
 ### Software Projects
 * **Applications**
