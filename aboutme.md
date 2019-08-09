@@ -13,7 +13,7 @@ title: About me
 * **Bachelor's in Molecular and Cellular Biology** at [University of Illinois at Urbana-Champaign](http://catalog.illinois.edu/undergraduate/las/academic-units/molecular-cell-bio/molecular-cellular-biology-concentration/), (2017)
 
 ### Work Experience
-* **Data Science Intern** at [Nielsen](https://www.nielsen.com) (**Summer 2019**)
+* **Data Science Intern** at [Nielsen](https://www.nielsen.com) (Summer 2019)
 * **Data Science and Analytics Intern** at [Paro Inc.](https://www.paro.io) (2019)
     *	Developed an ML model to forecast end of the month revenue which improved the company’s projection accuracy from 72% to approximately 95%
     *	Portrayed data findings as a story in order to communicate results to executives and advocated recommendations in data architecture
@@ -29,11 +29,11 @@ title: About me
     * Assisted team with the core mission of Ballot Ready by reporting, compiling, and updating data through web scraping
 
 ### Software Projects
-    * **Applications**
-        * Currently developing a project using a new stack - **C#, ASP.NET Core, Angular, NodeJS, SQLite**
-        * Created a paint app in java using OO design patterns, MVC architecture, and UML diagrams
-        * Released a basic iOS game coded in Lua to gain familiarity with mobile app development lifecycle
-        * You can see [GitHub](https://github.com/shasye1) for some examples of coding work.
+* **Applications**
+    * Currently developing a project using a new stack - **C#, ASP.NET Core, Angular, NodeJS, SQLite**
+    * Created a paint app in java using OO design patterns, MVC architecture, and UML diagrams
+    * Released a basic iOS game coded in Lua to gain familiarity with mobile app development lifecycle
+    * You can see [GitHub](https://github.com/shasye1) for some examples of coding work.
 
 ### Data Science Projects
 
