@@ -17,7 +17,7 @@ baseurl: ""
 title: Shahbaz Syed
 
 # Short description of your site
-description: Data Science and Computer Scientist
+description: Computer Scientist
 
 # --- Navigation bar options --- #
 
@@ -25,9 +25,9 @@ description: Data Science and Computer Scientist
 navbar-links:
   Blog: ""
   Projects: "projects"
-  About Me:
-    - About Me: "aboutme"
-    - Resume/CV: "resume"
+  About Me: "aboutme"
+    #- About Me: "aboutme"
+    #- Resume/CV: "resume"
 
 #  Resources:
 #    - Nothing Yet

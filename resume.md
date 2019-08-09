@@ -8,7 +8,6 @@ subtitle: Master's Student in Computer Science-Data Science
 
 <div align="center">
 <a href="mailto:shasye54@gmail.com" class="btn btn-success"><span class="glyphicons glyphicons-envelope"></span>Email</a>
-<a href="https://www.shahbazsyed.com" class="btn btn-success"><span class="glyphicons glyphicons-pencil"></span>Website & Blog</a>
 </div>
 
 ### About Me
