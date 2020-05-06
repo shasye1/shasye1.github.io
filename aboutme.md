@@ -5,25 +5,24 @@ title: About me
 
 -------------
 
-&#127891; Currently a Master's student in **Computer Science** at [DePaul University](http://www.cdm.depaul.edu/academics/Pages/Current/Requirements-MS-in-Computer-Science.aspx) where I am focused on topics ranging from **software engineering** to **machine learning and analytics**. Previously, I earned a BS in **Molecular and Cellular Biology** from the [University of Illinois at Urbana-Champaign](http://catalog.illinois.edu/undergraduate/las/academic-units/molecular-cell-bio/molecular-cellular-biology-concentration/).  *I've had intern experience with CPG analytics, manufacturing, and finance industries, as well as academic experience in healthcare/life sciences and computer science. I enjoy studying topics in software engineering, machine learning, data science, and statistics on my own, competitions/hackathons, and personal learning projects.*
+&#127891; Currently a Master's student in **Computer Science** at [DePaul University](http://www.cdm.depaul.edu/academics/Pages/Current/Requirements-MS-in-Computer-Science.aspx) where I am focused on topics ranging from **software engineering** to **machine learning and analytics**. Previously, I earned a BS in **Molecular and Cellular Biology** from the [University of Illinois at Urbana-Champaign](http://catalog.illinois.edu/undergraduate/las/academic-units/molecular-cell-bio/molecular-cellular-biology-concentration/).  *I've had intern experience with CPG analytics, manufacturing, finance, and other industries, as well as academic experience in healthcare/life sciences and computer science. I enjoy studying topics in software engineering, machine learning, and data science on my own, and contributing to competitions/hackathons, and personal learning projects.*
 
 ### Education
 
-* **Master's Degree In Computer Science** at [DePaul University](https://www.cdm.depaul.edu/academics/Pages/current/Requirements-MS-in-Computer-Science.aspx), (2020)
+* **Master's Degree In Computer Science** at [DePaul University](https://www.cdm.depaul.edu/academics/Pages/current/Requirements-MS-in-Computer-Science.aspx), (June 2020)
 * **Bachelor's in Molecular and Cellular Biology** at [University of Illinois at Urbana-Champaign](http://catalog.illinois.edu/undergraduate/las/academic-units/molecular-cell-bio/molecular-cellular-biology-concentration/), (2017)
 
 ### Work Experience
 * **Data Science Intern** at [Nielsen](https://www.nielsen.com) (Summer 2019)
-* **Data Science and Analytics Intern** at [Paro Inc.](https://www.paro.io) (2019)
-* **Engineering Intern** at [TRUMPF Inc.](https://www.trumpf.com/en_US/) (2018)
-* **Researcher** at [Ballot Ready](https://www.ballotready.org) (2018)
+* **Data Science and Analytics Intern** at [Paro Inc.](https://www.paro.io) (Spring 2019)
+* **Engineering Intern** at [TRUMPF Inc.](https://www.trumpf.com/en_US/) (Summer 2018)
+* **Researcher** at [Ballot Ready](https://www.ballotready.org) (Spring 2018)
 
 ### Software Projects
 * **Applications**
-    * Currently developing a project that may be monetized - **C#, ASP.NET Core, Angular, NodeJS, SQLite**
     * Created a paint app in java using OO design patterns, MVC architecture, and UML diagrams
     * Released a basic iOS game coded in Lua to gain familiarity with mobile app development lifecycle
-    * You can see [GitHub](https://github.com/shasye1) for some examples of coding work.
+    * Made a simple BlockChain system in Java (shared ledger among network peers, cryptography, etc.)
 
 ### Data Science Projects
 
@@ -36,8 +35,8 @@ title: About me
 
 
 ### Technical Skills [Keywords]
-* **Programming Languages**: Python, SQL, R, Java, C, C#
-* **Developing Software/Frameworks**: Pandas, Numpy, Scikit, Keras/Tensorflow, Azure/AWS, Hadoop, Git, Jira, Confluence, Agile, AppDynamics, Jenkins, Terraform
+* **Programming Languages**: Python, SQL, Java, R, C, C#, Flutter
+* **Developing Software/Frameworks**: Pandas, Numpy, Scikit, Keras/Tensorflow, Azure/AWS, Hadoop, Git, Spring Boot, JUnit, Atlassian/Jira, Agile, Terraform, Jenkins, AppDynamics, Docker, Grafana
 * **Languages**: English, Spanish, Urdu/Hindi
 
 ---

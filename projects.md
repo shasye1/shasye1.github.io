@@ -19,7 +19,4 @@ subtitle: Data Science projects
 
 *   &#128679; Potholes In Chicago (Currently Unavailable) by the Chicago Data Portal: A data visualization featuring the recorded potholes reported via the 311 Chicago call center since 2011. The filter on the right allows you to see points at which potholes existed and whether they were actually completed in the specified date the pothole report was created, or whether they weren't.
 
-* You can see [GitHub](https://github.com/shasye1) for some examples of coding work.
-
-
 ---
